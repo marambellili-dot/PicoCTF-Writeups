@@ -1,6 +1,6 @@
 # PicoCTF Writeups
 
-Collection of writeups and notes from PicoCTF challenges.
+My cybersecurity learning journey through PicoCTF challenges.
 
 ## Categories
 
@@ -10,8 +10,16 @@ Collection of writeups and notes from PicoCTF challenges.
 - Forensics
 - Reverse Engineering
 
-## Goals
+## Objectives
 
 - Improve Linux skills
-- Improve problem solving
-- Learn cybersecurity fundamentals
+- Practice cybersecurity concepts
+- Learn security tools
+- Document my progress
+
+## Tools
+
+- Linux
+- Bash
+- Python
+- Networking concepts
