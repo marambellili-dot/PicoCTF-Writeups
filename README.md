@@ -1,10 +1,22 @@
 # PicoCTF Writeups
 
-This repository contains my solutions and notes from PicoCTF challenges.
-
+This repository contains selected writeups from my PicoCTF practice.
 ## About PicoCTF
 
 PicoCTF is a cybersecurity learning platform that provides practical challenges in different security domains.
+
+## Statistics
+
+- Solved 100+ PicoCTF challenges
+- Categories:
+  - General Skills
+  - Cryptography
+  - Web Exploitation
+  - Reverse Engineering
+  - Forensics
+  - Binary Exploitation
+
+The repository includes representative writeups for the challenges that introduced new concepts or techniques.
 
 ## Objectives
 
@@ -16,29 +28,12 @@ Through these challenges, I am improving:
 - Cybersecurity fundamentals
 - Understanding of security concepts
 
-## Categories
-
-- General Skills
-- Cryptography
-- Web Exploitation
-- Forensics
-- Reverse Engineering
-- Binary Exploitation
-
 ## Tools Used
 
 - Linux Terminal
 - Bash commands
 - Python
 - Cybersecurity tools
-
-## Progress
-
-Challenges solved:
-
-- General Skills: X
-- Cryptography: X
-- Web Exploitation: X
 
 ## Learning Approach
 
